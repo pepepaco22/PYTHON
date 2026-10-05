@@ -1,0 +1,5 @@
+no = input("¿Cuál es tu nombre completo? ")
+no_1 = no.split()
+print (no.lower())
+print(no.upper())
+print (no.title())
