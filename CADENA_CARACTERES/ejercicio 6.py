@@ -1,0 +1,5 @@
+fr = input("introduce una frase ")
+v = input("elije una vocal ")
+V = v.upper()
+fr_n = fr.replace( v , V )
+print(fr_n)
