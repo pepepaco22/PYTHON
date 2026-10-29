@@ -7,6 +7,7 @@ elif renta <= 20000:
 elif renta <= 35000:
     print("te corresponde un impositivo del 20%")
 elif renta <= 60000:
-     print("te corresponde un impositivo del 30%")
+    print("te corresponde un impositivo del 30%")
 else:
-        print("te corresponde un impositivo del 45%")
+    print("te corresponde un impositivo del 45%")   
+
